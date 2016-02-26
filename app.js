@@ -8,7 +8,7 @@ $(document).ready(function(){
     $el.append('<h2>' + student.name + '</h2>');
     $el.append('<h3>' + student.cohort + '</h3>');
     $el.append('<h1>' + student.grade + '</h1>');
-    $el.append('<h5>' + student.colorFav + '</h5>');
+    $el.append('<h5>' + student.colorFav + '</h2>');
   }
 });
 
